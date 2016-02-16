@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesp09wiengoog_0210.png"; bbox 0 0 3567 5109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1327 2444 2293 2477">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1327 2444 2293 2477">
+     <span class='ocr_line' id='line_1_1' title="bbox 1327 2444 2293 2477; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1327 2444 1369 2475; x_wconf 67' lang='grc' dir='ltr'><strong>Κ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1386 2452 1420 2475; x_wconf 70' lang='lat' dir='ltr'><strong>a.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1440 2447 1474 2477; x_wconf 69' lang='lat' dir='ltr'><strong>k.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1492 2445 1836 2475; x_wconf 59' lang='lat' dir='ltr'><strong>nontamen-⁸01</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1857 2445 1936 2474; x_wconf 68' lang='lat' dir='ltr'><strong>cul</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1955 2444 2110 2474; x_wconf 68' lang='lat' dir='ltr'><strong>mnn-</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2131 2446 2165 2474; x_wconf 75' lang='grc' dir='ltr'><strong>ιι</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2184 2444 2293 2475; x_wconf 63' lang='lat' dir='ltr'><strong>Wl-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
